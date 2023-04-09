@@ -1,3 +1,6 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potistudio
+)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m potistudio
 - 👀 I’m interested in ***Electron*** & ***Unity***
 - 🌱 I’m currently learning **Create the Electron Application from Scratch**
