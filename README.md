@@ -3,7 +3,7 @@
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=potistudio&show_icons=ture" />
 </p>
 
-- 👋 Hi, I’m potistudio
+- 👋 Hi, I’m POTI
 - 👀 I’m interested in ***Electron*** & ***Unity***
 - 🌱 I’m currently learning **Create the Electron Application from Scratch**
 
