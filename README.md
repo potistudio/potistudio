@@ -3,7 +3,7 @@
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=potistudio&show_icons=ture" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={potistudio}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potistudio
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
