@@ -1,6 +1,6 @@
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=potistudio&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=potistudio&show_icons=ture" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=potistudio&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
 
 <!---
