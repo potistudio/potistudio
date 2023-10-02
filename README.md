@@ -1,6 +1,7 @@
+
 <p align="left">
-  <img alt="github stats" height="200px" src="https://github-readme-stats-roan-eight-96.vercel.app/api?username=potistudio&show_icons=true&count_private=true&include_all_commits=true" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats-roan-eight-96.vercel.app/api/top-langs/?username=potistudio&layout=donut&show_icons=true" />
+  <img alt="github stats" height="240px" src="https://github-readme-stats-roan-eight-96.vercel.app/api?username=potistudio&show_icons=true&count_private=true&include_all_commits=true" />
+  <img alt="Top Langs" src="https://github-readme-stats-roan-eight-96.vercel.app/api/top-langs/?username=potistudio&langs_count=8&layout=donut&show_icons=true" />
 </p>
 
 <!---
