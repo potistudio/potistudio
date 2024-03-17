@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=windows,notion,obsidian,codepen,unity,blender,vscode,figma,git,github,cloudflare,vercel,supabase)](https://skillicons.dev)
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=nodejs,electron,vite,webpack,js,html,css,svelte,p5js,threejs,sass,py,cs,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,electron,vite,js,html,css,svelte,p5js,threejs,sass,cs,lua)](https://skillicons.dev)
 
 # Learning
 [![My Skills](https://skillicons.dev/icons?i=cpp,wasm,godot,firebase,flutter,linux,rust,tauri,unreal)](https://skillicons.dev)
