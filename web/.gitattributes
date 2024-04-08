@@ -1,0 +1,23 @@
+
+# Auto detect
+*                      text=auto eol=lf
+
+.editorconfig     text
+.gitattributes    text
+.gitignore        text
+LICENSE           text
+package.json      text
+
+*.md              text
+*.json            text
+*.yaml            text
+
+*.html            text
+*.svelte          text
+*.scss            text
+*.ts              text
+
+*.png             binary
+*.svg             binary
+*.mp3             binary
+*.mp4             binary
