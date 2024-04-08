@@ -15,6 +15,7 @@ package.json      text
 *.html            text
 *.svelte          text
 *.scss            text
+*.js              text
 *.ts              text
 
 *.png             binary
