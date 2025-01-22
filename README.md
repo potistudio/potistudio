@@ -1,15 +1,12 @@
 
 <!---
-<p align="left">
-  <img alt="github stats" height="200px" src="https://github-readme-stats-roan-eight-96.vercel.app/api?username=potistudio&show_icons=true&count_private=true&include_all_commits=true" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats-roan-eight-96.vercel.app/api/top-langs/?username=potistudio&langs_count=8&exclude_repo=(github-readme-stats,potistudio,Action-RPG_Godot_Tutorial,MagicTween)&layout=compact&show_icons=true" />
-</p>
---->
-
-<!---
 POTI/potistudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://count.getloli.com">
+  <img width=400 align="center" src="https://count.getloli.com/@potistudio?name=potistudio&theme=rule34&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
+</a>
 
 # Tools
 [![My Skills](https://skillicons.dev/icons?i=windows,notion,obsidian,codepen,unity,blender,vscode,figma,git,github,cloudflare,vercel,supabase)](https://skillicons.dev)
@@ -42,5 +39,3 @@ You can click the Preview link to take a look at your changes.
 
 [![wakatime](https://wakatime.com/badge/user/0e1e4d93-bdba-4d1c-b43e-9d407b6c90ef.svg)](https://wakatime.com/@0e1e4d93-bdba-4d1c-b43e-9d407b6c90ef)  
 [![potistudio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=POTI&layout=compact&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
-
-[![counter](https://profile-counter.glitch.me/potistudio/count.svg)]
