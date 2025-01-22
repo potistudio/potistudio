@@ -42,3 +42,5 @@ You can click the Preview link to take a look at your changes.
 
 [![wakatime](https://wakatime.com/badge/user/0e1e4d93-bdba-4d1c-b43e-9d407b6c90ef.svg)](https://wakatime.com/@0e1e4d93-bdba-4d1c-b43e-9d407b6c90ef)  
 [![potistudio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=POTI&layout=compact&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
+
+[![counter](https://profile-counter.glitch.me/potistudio/count.svg)]
