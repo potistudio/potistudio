@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=potistudio&langs_count=8&layout=compact" />
 </a>
 
-# ⏳ Spending Time
+# ⏳ Time Spent with YOU
 
 [![wakatime](https://wakatime.com/badge/user/0e1e4d93-bdba-4d1c-b43e-9d407b6c90ef.svg)](https://wakatime.com/@0e1e4d93-bdba-4d1c-b43e-9d407b6c90ef)  
 [![potistudio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=POTI&layout=compact&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
