@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,cs,lua)](https://skillicons.dev)
 
 # Learning
-[![My Skills](https://skillicons.dev/icons?i=cpp,wasm,godot,firebase,flutter,linux,rust,tauri,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,linux,rust,tauri,unreal)](https://skillicons.dev)
 
 # 🎖Badge
 
