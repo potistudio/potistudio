@@ -22,3 +22,18 @@ You can click the Preview link to take a look at your changes.
 
 # Learning
 [![My Skills](https://skillicons.dev/icons?i=cpp,wasm,godot,firebase,flutter,linux,rust,tauri,unreal)](https://skillicons.dev)
+
+# 🎖Badge
+
+[![Contributions](https://badgen.org/img/qiita/potistudio/contributions?style=flat)](https://qiita.com/potistudio)
+[![Followers](https://badgen.org/img/qiita/potistudio/followers?style=flat)](https://qiita.com/potistudio)
+[![Articles](https://badgen.org/img/qiita/potistudio/articles?style=flat)](https://qiita.com/potistudio)  
+
+# 📈 Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=potistudio&show_icons=true&show=prs_merged_percentage&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=potistudio&langs_count=8&layout=compact" />
+</a>
