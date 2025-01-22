@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://count.getloli.com">
-  <img width=400 align="center" src="https://count.getloli.com/@potistudio?name=potistudio&theme=rule34&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
+  <img width=400 align="center" src="https://count.getloli.com/@potistudio?name=potistudio&theme=gelbooru&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </a>
 
 # Tools
