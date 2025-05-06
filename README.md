@@ -9,16 +9,13 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 # Tools
-[![My Skills](https://skillicons.dev/icons?i=windows,notion,obsidian,codepen,unity,blender,vscode,figma,git,github,cloudflare,vercel,supabase)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=windows,notion,obsidian,codepen,unity,blender,vscode,figma,git,github,cloudflare,vercel,supabase)](https://skillicons.dev)
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=nodejs,electron,vite,svelte,p5js,threejs)](https://skillicons.dev)
-
-# Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,cs,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,electron,vite,svelte,p5js,threejs,js,html,css,sass,cs,lua)](https://skillicons.dev)
 
 # Learning
-[![My Skills](https://skillicons.dev/icons?i=cpp,linux,rust,tauri,unreal)](https://skillicons.dev)
+[![Learnings](https://skillicons.dev/icons?i=cpp,linux,rust,tauri,unreal)](https://skillicons.dev)
 
 # 🎖Badge
 
@@ -39,3 +36,4 @@ You can click the Preview link to take a look at your changes.
 
 [![wakatime](https://wakatime.com/badge/user/0e1e4d93-bdba-4d1c-b43e-9d407b6c90ef.svg)](https://wakatime.com/@0e1e4d93-bdba-4d1c-b43e-9d407b6c90ef)  
 [![potistudio's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=POTI&layout=compact&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314txsiq4xtinmsvickd7djyqulu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=314txsiq4xtinmsvickd7djyqulu&redirect=true)
